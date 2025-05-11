@@ -22,7 +22,7 @@ Réalisée dans le cadre du TP de Programmation Orientée Objet.
 
 ### Option 2 - Compilation depuis les sources
 ```bash
-git clone https://github.com/votre-repo/db-api.git
+git clone  https://github.com/jih7ne/api.git
 cd db-api
 mvn clean package
 ```
