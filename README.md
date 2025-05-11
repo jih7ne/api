@@ -100,5 +100,12 @@ Log4j 2.17.2
 JUnit 5.8.2 (tests)
 
 OpenCSV 5.7.1 (tests)
+##  Auteur & Licence
+
+- **Auteur** : [Jihane Chouhe]
+- **Email** : [jih77ne@gmail.com]
+- **Année universitaire** : 2024/2025
+- **Licence** : MIT (voir `LICENSE`)
+
 
 
